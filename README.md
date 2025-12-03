@@ -1,2 +1,18 @@
 # General
-School Assignments
+This Bitsy game is an adaptation the end of the horror movie "Good Boy" (2025). 
+
+This is loosely about the end of the movie, as the movie is recent and it was hard to reference particular points from the movie without rewatching it (which I did not have access to doing at the time as I did not own the platform). Everything is mostly from my memory having watched the movie 24hrs prior to trying to create the game.
+
+The movie is from the perspective of a dog (Indy), the important information for the game is the dog's owner is a drug addict who has contracted some type of deadily disease that is never quite specified. There is a monster throughout the movie that Indy encounters however cannot attack or truly escape from but it seems to be attacking the owner. I believe this monster is a representation of death coming for the owner. Through the movie Indy is constantly trying to save the owner to some capacity and at the end the owner dies but his ghost tells Indy the lines "You've been a great dog, but you can't save me. You gotta stay here", before disappearing. Presumably days later the owner's siters finds Indy in the basement.
+
+Another important aspect to this movie is the owner inherets this house from his dead dad who was also terminally ill, had a dog, and dies in the house. The dad's dog is suspected to represent what could happen to Indy if he chooses to stay in the basement to wait for his owner instead of leaving with the sister. 
+
+All of these things are what I found important enough to incorporate into the game to some capacity, seeing as this movie is from a dog's perspective I thought narration should come from how Indy would percieve the world around him. Making it possibly hard to interpret things while playing the game which is intentional as the movie deliberately chooses not to explain certain things. 
+
+1. The game starts in the bedroom, Indy is looking for his owner. In order to leave the room you have to inspect all 5 interactables in the room which are the tv (where the owner's dad left home videos), the shadow in the corner (a reoccuring form of the "monster"), the water on the floor by the window (it's notable raining/thundering through the back end of the movie. There are multiple times where Indy is outside in the rain however I felt for the scene that wasnt important), the bed, and the strange table next to the bed (there are multiple moments in the game where Indy either hides in this section or the owner hides with Indy in this section).
+
+2. The basement. I will note this is not the regular layout of the house however I didn't feel it was needed to map out the entire house to be able to access the basement. In the basement is the other dead dog which is in the center of the room, in the corner is the monster as it is usually almost always in the corner when it is in the room. 
+
+3. This is the room the owner is in. Every step is a different dialogue as Indy gets closer to him he says the lines "You've been a great dog, but you can't save me. You gotta stay here". As the player approaches the owner they will never actually reach the owner as the space directly before the owner will prompt the ending with the sister. This is a deliberate design choice that Indy cannot actually reach the owner because he can't save him from death. He is also already technically dead in this scene though that much isn't clear for the game. 
+
+4. The end. After reaching right before the owner the end will occur where it is just dialogue from the sister finding Indy and telling him to come with her. Indy gets to leave and never does save the owner.
