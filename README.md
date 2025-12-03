@@ -1,4 +1,4 @@
-# General
+# Good Boy
 This Bitsy game is an adaptation the end of the horror movie "Good Boy" (2025). 
 
 This is loosely about the end of the movie, as the movie is recent and it was hard to reference particular points from the movie without rewatching it (which I did not have access to doing at the time as I did not own the platform). Everything is mostly from my memory having watched the movie 24hrs prior to trying to create the game.
